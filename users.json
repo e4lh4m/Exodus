@@ -1,0 +1,31 @@
+{
+    "ealham": {
+        "password": "123ealham",
+        "high_score": 5
+    },
+    "ok": {
+        "password": "12ok",
+        "high_score": 2710,
+        "last_score": 1470
+    },
+    "niga": {
+        "password": "12niga",
+        "high_score": 112,
+        "last_score": 112
+    },
+    "rr": {
+        "password": "12rr",
+        "high_score": 140,
+        "last_score": 140
+    },
+    "rongon": {
+        "password": "12rongon",
+        "high_score": 209,
+        "last_score": 209
+    },
+    "eaeaadad": {
+        "password": "dadad",
+        "high_score": 0,
+        "last_score": 0
+    }
+}
